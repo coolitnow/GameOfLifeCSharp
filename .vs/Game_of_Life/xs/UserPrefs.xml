@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{884882DE-9121-427D-830B-26884F6DF6E3}|Default">
+  <MonoDevelop.Ide.ItemProperties.Game__of__Life PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Game_of_Life/Program.cs">
+    <Files>
+      <File FileName="Game_of_Life/Program.cs" Line="98" Column="84" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Game_of_Life" expanded="True">
+            <Node name="Game_of_Life" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
